@@ -24,13 +24,19 @@
     rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
 }
 
+Header {
+  font-family: 'Saira Stencil One', cursive;
+}
 main {
+  font-family: 'Zen Kurenaido', sans-serif;
+
   max-width: 1100px;
   width: 95%;
   margin: 0 auto;
 }
 
 .section {
+
   margin-top: 5em;
 }
 
